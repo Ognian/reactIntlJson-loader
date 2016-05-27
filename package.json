@@ -1,6 +1,6 @@
 {
     "name": "reactIntlJson-loader",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "Ognian Tschakalov",
     "description": "reactIntlJson loader module for webpack",
     "license": "MIT",
